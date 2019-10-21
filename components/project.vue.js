@@ -9,10 +9,10 @@ let projectPage = {
     <p class="article_author">Project Type and Tools: {{projectPage.type}}</p>
     <p class="article-content">{{projectPage.content}}</p>
     <img :src="[projectPage.image]" alt="" width="90%"><br>
-    <a href="[projectPage.link]"><img src="/images/linkicon.png" alt="" width="60px"></a><br>
+    <a href="[projectPage.link]"><img src="images/linkicon.png" alt="" width="60px"></a><br>
     
     <img :src="[projectPage.image2]" alt="" width="90%"><br>
-    <a href="[projectPage.link2]"><img src="/images/linkicon.png" alt="" width="60px"></a>
+    <a href="[projectPage.link2]"><img src="images/linkicon.png" alt="" width="60px"></a>
     <div class="black-divider"></div>
     </div>
     
