@@ -41,9 +41,9 @@ slug:'4th Post',
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
 content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
 image: 'images/mediaplayer1.gif', 
-link: 'https://github.com/lenardblair',
+link: 'https://lenardblair.github.io/vv-03/',
 image2: 'images/mediaplayer2.jpg', 
-link2: 'https://github.com/lenardblair'
+link2: 'https://lenardblair.github.io/vv-03/'
 },
 
 { id: 5, 
@@ -53,9 +53,9 @@ slug:'5th Post',
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
 content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
 image: 'images/grasshopper2.jpg', 
-link: 'https://crisisgo.com',
+link: '',
 image2: 'images/grasshopper1.jpg', 
-link2: 'https://crisisgo.com'
+link2: ''
 },
 
 { id: 6, 
@@ -63,7 +63,7 @@ title: 'LeadGen ',
 type:'Prototyping | PWA | HTML, Bubble,  Invision', 
 slug:'6th Post', 
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
-content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
+content: `Sales Lead Generation Software. Simple, Easy, Dynamic Landing Page Creation. My Role: Prototyping, UX/UI, Design System`, 
 image: 'images/leadgen2.jpg', 
 link: 'https://badgerbear-dev.github.io/LG_F_1/',
 image2: 'images/leadgen1.jpg', 
@@ -77,9 +77,9 @@ slug:'7th Post',
 excerpt: 'Prototype | Mobile SPA | Invision, Ilustrator, Photoshop ', 
 content: `Swap/trade books with global and local bookworms on various networks/nooks organized by genre, author and publisher. `, 
 image: 'images/bookswap2.jpg', 
-link: 'https://crisisgo.com',
+link: 'https://projects.invisionapp.com/prototype/cjxqarbi00157sg0120nj9bh9/play',
 image2: 'images/bookswap1.jpg', 
-link2: 'https://crisisgo.com'
+link2: 'https://projects.invisionapp.com/prototype/cjxqarbi00157sg0120nj9bh9/play'
 },
 
 { id: 8, 
@@ -89,9 +89,9 @@ slug:'8th Post',
 excerpt: 'Visual Design : InDesign, PhotoShop, Illustrator', 
 content: `Digital and print visual design projects, often under 'Branding Guides' or while developing new design systems.`, 
 image: 'images/visual-design-graphic-2.jpg', 
-link: 'https://crisisgo.com',
+link: 'https://lenardblair.github.io/Portfolio_DEV_LLB/',
 image2: 'images/visual-design-graphic.jpg', 
-link2: 'https://crisisgo.com'
+link2: 'https://lenardblair.github.io/Portfolio_DEV_LLB/'
 },
 
 { id: 9, 
