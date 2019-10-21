@@ -7,7 +7,7 @@ content: 'I joined the Maritz-Channel Services/OppMax marketing team assigned wi
 image: 'images/nissan1.gif', 
 link: 'https://www.rosennissanmadison.com/',
 image2: 'images/code-editor.gif', 
-link2: 'https://nissan'
+link2: 'https://lenardblair.github.io/editor-M-channel-services/'
 },
     
     { id: 2, 
@@ -17,9 +17,9 @@ slug:'2nd Post',
 excerpt: 'Design-Deploy resuable UI componets with CSS, Anime.js and Ionic. ', 
 content: ' Interactive Reading Comprehension Quiz. Bouncing Beans Version 0.5 is a free web app template for instructors to create, share and manage interactive quiz content with students. Anyone is free to use, build upon and/or re-imagine the resuable UI componets. The project was built while creating and adhering to  a strict Design System with the goal of prototyping basic UI and svg animations with Anime.js. ', 
 image: 'images/bouncingbeans1.jpg', 
-link: 'https://nissan',
+link: 'https://github.com/lenardblair/Bouncing_Beans_V0.5',
 image2: 'images/bouncingbeans2.jpg', 
-link2: 'https://nissan'
+link2: 'http://bit.ly/Bouncing_Beans_V1_demo'
 },
     
     { id: 3, 
@@ -41,9 +41,9 @@ slug:'4th Post',
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
 content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
 image: 'images/mediaplayer1.gif', 
-link: 'https://crisisgo.com',
+link: 'https://github.com/lenardblair',
 image2: 'images/mediaplayer2.jpg', 
-link2: 'https://crisisgo.com'
+link2: 'https://github.com/lenardblair'
 },
 
 { id: 5, 
@@ -65,9 +65,9 @@ slug:'6th Post',
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
 content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
 image: 'images/leadgen2.jpg', 
-link: 'https://crisisgo.com',
+link: 'https://badgerbear-dev.github.io/LG_F_1/',
 image2: 'images/leadgen1.jpg', 
-link2: 'https://crisisgo.com'
+link2: 'https://badgerbear-dev.github.io/LG_F_1/'
 },
 
 { id: 7, 
