@@ -25,7 +25,7 @@ let Article = {
     <a href="[article.link]"><img src="images/linkicon.png"  alt="" width="60px"></a>
     <p class="article-content">{{article.content}}</p>
      <img :src="[article.image2]" alt="" width="80%"><br>
-    <a href="[article.link]"><img src="images/linkicon.png" alt="" width="60px"></a>
+    <a href="[article.link2]"><img src="images/linkicon.png" alt="" width="60px"></a>
      <p class="article-content">Task: {{article.excerpt}}</p>
     <div class="black-divider"></div>
     </div>
