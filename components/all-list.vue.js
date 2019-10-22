@@ -53,9 +53,9 @@ slug:'5th Post',
 excerpt: 'Custom UX and UI components while adhering to site wide style guides.', 
 content: `Starting with a basic cheatsheet/repository of javascript functions for acessing the <video> element controls I created a custom media player, with a <ul> based playlist ready for a PHP loop script or Vue's "v-for" and a method/function. `, 
 image: 'images/grasshopper2.jpg', 
-link: '',
+link: 'https://github.com/lenardblair',
 image2: 'images/grasshopper1.jpg', 
-link2: ''
+link2: 'https://github.com/lenardblair'
 },
 
 { id: 6, 
